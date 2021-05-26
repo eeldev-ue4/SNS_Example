@@ -6,7 +6,8 @@
 	"Plugins": [
 		{
 			"Name": "AwsSNS",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/def8a9e6df6543788df556e0675920ef"
 		}
 	]
 }
